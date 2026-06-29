@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://syncraft.co.in/sitemap.xml
